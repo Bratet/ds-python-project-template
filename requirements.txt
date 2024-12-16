@@ -1,0 +1,3 @@
+loguru
+pretty errors
+ruff
